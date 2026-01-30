@@ -1,14 +1,14 @@
-# 👋 Hola, soy Gonzalo Rodríguez
-## 📊 Analisis de Datos | Inteligencia De Negocios | La Nube | Programación & Arquitectura de software
+# 👋 Hola, soy Gonzalo Rodríguez Y Busco Ser Experto En:
+## 📊 Analisis de Datos | Inteligencia De Negocios | La Nube aws | Programación & Arquitectura de software
 
-✨ Soy un apasionado por transformar datos en soluciones accionables y claras.  
+✨ Tengo la Meta de transformar datos en soluciones accionables y claras.  
 Mi objetivo es resolver problemas reales con análisis, visualizaciones e insights útiles para la toma de decisiones.
 
 ---
 
 ## 📌 Sobre mí
 
-🎓 Titulado / Analista Programador Computacional  
+🎓 Titulado / Analista Programador Computacional en Duoc UC
 🔍 Enfocado en ser Especialista en Inteligencia De Negocios  
 📊 Construcción de dashboards y reportes de negocio  
 🤝 Trabajo colaborativo y buenas prácticas de código
